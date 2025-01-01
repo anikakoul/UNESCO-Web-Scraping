@@ -13,11 +13,7 @@ _Requirements_
 - Install the required libraries using pip: pip install beautifulsoup4 requests lxml
 
 _Usage_
-- Clone the repository
-
-  git clone https://github.com/anikakoul/UNESCO-Web-Scraping.git
-
-  cd web-scraping-email-extractor
+- Clone the repository.
 - Open the Jupyter Notebook: jupyter notebook WebScraping.ipynb
 - Update the list of URLs in the code block as needed.
 - Run the cells in sequence to extract email addresses from the specified web pages.
